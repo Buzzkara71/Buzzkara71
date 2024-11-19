@@ -107,8 +107,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media1.tenor.com/m/uOkZJGLAF_QAAAAd/hatsune-miku-miku.gif"  />
-</div>
+<img align="left" height="400" src="https://media1.tenor.com/m/uOkZJGLAF_QAAAAd/hatsune-miku-miku.gif"  />
 
 ###
