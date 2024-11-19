@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="296" src="https://scontent.ftnj1-1.fna.fbcdn.net/v/t1.6435-9/159420184_769474323751712_6003042139941300444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFwEjuHM0yFb5G7Btl-rYVNXOvYKeqpWpJc69gp6qlakpObbnMFxuqLvFiiicKMrqp37EHEuLPAUI0z-pSYLKNa&_nc_ohc=gNg9Msrh2PEQ7kNvgEO73Oc&_nc_zt=23&_nc_ht=scontent.ftnj1-1.fna&_nc_gid=AMMnwzV6kgqMDe63Wdppc51&oh=00_AYC_SeOvwfbWOgAMTurCswjwaj5xDlfDJs3qN97OrL6SNw&oe=6763EDF8"  />
+  <img height="350" src="https://scontent.ftnj1-1.fna.fbcdn.net/v/t1.6435-9/159420184_769474323751712_6003042139941300444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFwEjuHM0yFb5G7Btl-rYVNXOvYKeqpWpJc69gp6qlakpObbnMFxuqLvFiiicKMrqp37EHEuLPAUI0z-pSYLKNa&_nc_ohc=gNg9Msrh2PEQ7kNvgEO73Oc&_nc_zt=23&_nc_ht=scontent.ftnj1-1.fna&_nc_gid=AMMnwzV6kgqMDe63Wdppc51&oh=00_AYC_SeOvwfbWOgAMTurCswjwaj5xDlfDJs3qN97OrL6SNw&oe=6763EDF8"  />
 </div>
 
 ###
@@ -95,11 +95,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.tenor.com/m/tdcTLzCqIEMAAAAC/miku-hatsune-miku.gif"  />
-
-###
-
-<div align="right">
+<div align="center">
   <a href="https://open.spotify.com/user/7cic7w0l64vh30vc2sin1hw9v">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cic7w0l64vh30vc2sin1hw9v&count=2&unique=true" alt="Spotify recently played"  />
   </a>
