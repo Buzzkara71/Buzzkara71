@@ -95,14 +95,8 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/D38Cdouvj68AAAAd/hatsune-miku.gif"  />
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/7cic7w0l64vh30vc2sin1hw9v">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cic7w0l64vh30vc2sin1hw9v&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+<div align="center">
+  <img height="500" src="https://media1.tenor.com/m/uOkZJGLAF_QAAAAd/hatsune-miku-miku.gif"  />
 </div>
 
 ###
