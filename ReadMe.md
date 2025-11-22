@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="350" src="https://scontent.ftnj1-1.fna.fbcdn.net/v/t1.6435-9/159420184_769474323751712_6003042139941300444_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFwEjuHM0yFb5G7Btl-rYVNXOvYKeqpWpJc69gp6qlakpObbnMFxuqLvFiiicKMrqp37EHEuLPAUI0z-pSYLKNa&_nc_ohc=gNg9Msrh2PEQ7kNvgEO73Oc&_nc_zt=23&_nc_ht=scontent.ftnj1-1.fna&_nc_gid=AMMnwzV6kgqMDe63Wdppc51&oh=00_AYC_SeOvwfbWOgAMTurCswjwaj5xDlfDJs3qN97OrL6SNw&oe=6763EDF8"  />
-</div>
-
 ###
 
 <div align="center">
@@ -92,11 +88,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Buzzkara71/Buzzkara71/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="499" src="https://i.imgflip.com/9avjto.gif"  />
-</div>
 
 ###
